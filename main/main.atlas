@@ -3,10 +3,6 @@ images {
   sprite_trim_mode: SPRITE_TRIM_MODE_OFF
 }
 images {
-  image: "/assets/background.png"
-  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
-}
-images {
   image: "/assets/pngs/pngwing.com.png"
   sprite_trim_mode: SPRITE_TRIM_MODE_OFF
 }
@@ -20,6 +16,10 @@ images {
 }
 images {
   image: "/assets/pngs/squres/greensquare.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/orange_background.jpg"
   sprite_trim_mode: SPRITE_TRIM_MODE_OFF
 }
 margin: 0
